@@ -1,0 +1,13 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AvoidApplyPluginMethod" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="AvoidDependencyNamedArgumentsNotation" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="AvoidDuplicateDependencies" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="AvoidDuplicateRepositories" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="ConfigurationAvoidance" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="LatestMinorVersion" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RedundantKotlinStdLibDependency" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="TaskMissingDescription" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  </profile>
+</component>

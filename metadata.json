@@ -1,0 +1,6 @@
+{
+  "name": "Farmadeu",
+  "description": "Assistant intelligent pour la gestion des cultures et élevages, avec diagnostic de maladies par IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
